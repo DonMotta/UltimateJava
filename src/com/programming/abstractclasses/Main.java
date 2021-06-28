@@ -18,6 +18,14 @@ public class Main  {
         Penguin penguin = new Penguin("Emperor");
         penguin.fly();
 
+        String stringData = "Drawing Brisbane perth Melbourne Canberra Adelaide Sydney Canberra.";
+        String[] data = stringData.split("");
+
+        for (String s : data){
+
+
+        }
+
     }
 
 }
